@@ -7,7 +7,7 @@ My love for modeling and animation, combined with my hobby of exploring new tech
 - **Modeling & Animation:** Blender  
 - **Game Engine Integration:** Unity  
 - **Texturing & Rendering:** Blender Cycles, Eevee  
-- **File Formats:** `.blend`, `.blend1`
+- **File Formats:** `.blend`, `.blend1`, `.png`, `.jpg`, `.mp4`
 
 ## Projects Highlights
 
